@@ -14,7 +14,7 @@ UNIVERSITY = "NO UNIVERSITY"
 GRAD_YEAR = "2027"
 LINKEDIN = "https://linkedin.com"
 GITHUB = "https://github.com"
-REFERRALS = "Baybol Market"
+REFERRALS = "NULL"
 EXTRA_NOTES = "Excited to participate!"
 
 ESSAY_1 = "I have coded in Python and JavaScript."
