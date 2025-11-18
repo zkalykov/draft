@@ -1,4 +1,4 @@
-#⚠️  EDUCATIONAL PURPOSE DISCLAIMER ⚠️
+# ⚠️  EDUCATIONAL PURPOSE DISCLAIMER ⚠️
 
 This script is created strictly for EDUCATIONAL and LEARNING purposes to demonstrate:
 - Playwright browser automation capabilities
